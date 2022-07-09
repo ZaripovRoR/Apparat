@@ -1,0 +1,15 @@
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.csproj.AssemblyReference.cache
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.AssemblyInfoInputs.cache
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.AssemblyInfo.cs
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.csproj.CoreCompileInputs.cache
+C:\Users\79600\source\repos\кр\кр\bin\Debug\net6.0\Apparat.exe
+C:\Users\79600\source\repos\кр\кр\bin\Debug\net6.0\Apparat.deps.json
+C:\Users\79600\source\repos\кр\кр\bin\Debug\net6.0\Apparat.runtimeconfig.json
+C:\Users\79600\source\repos\кр\кр\bin\Debug\net6.0\Apparat.dll
+C:\Users\79600\source\repos\кр\кр\bin\Debug\net6.0\Apparat.pdb
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.dll
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\refint\Apparat.dll
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.pdb
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\Apparat.genruntimeconfig.cache
+C:\Users\79600\source\repos\кр\кр\obj\Debug\net6.0\ref\Apparat.dll
